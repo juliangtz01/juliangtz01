@@ -23,6 +23,8 @@ Software Developer and Full-Stack Developer
 
 Texas State Technical College graduate with an Associates degree in Computer Programming, Web Development Certification from Codeup, and always learning more about programing.
 
+Currently studying computer engineering at The University of Rio Grande Valley.
+
 * 🌍  I'm based in San Benito, TX
 
 ### Skills
