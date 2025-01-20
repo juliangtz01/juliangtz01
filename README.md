@@ -46,6 +46,8 @@ Texas State Technical College graduate with an Associates degree in Computer Pro
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://angular.dev" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/311/952/png-transparent-angular-logo-landscape-tech-companies-thumbnail.png" width="36" height="36" alt=".Angular" /></a>
+<a href="https://vuejs.org" target="_blank" rel="noreferrer"><img src="https://devsarticles.com/wp-content/uploads/2024/01/vue-3-the-complete-guide.png" width="36" height="36" alt=".VUE 3" /></a>
 </p>
 
 
