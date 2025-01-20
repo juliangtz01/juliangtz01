@@ -23,7 +23,7 @@ Software Developer and Full-Stack Developer
 
 Texas State Technical College graduate with an Associates degree in Computer Programming, Web Development Certification from Codeup, and always learning more about programing.
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I'm based in San Benito, TX
 
 ### Skills
 
